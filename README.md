@@ -1,9 +1,9 @@
 # Soil Classification Hackathon Challenge Template Repository
 
-This is the template repository for soil classification challenge. Please refer to this and make the required changes in your respective repositories. You could clone it as well and then add required files. 
 
-*Please note that: We strictly advise you to use this template, this is the same template as mentioned in the Google Forms shared with you.*
+## Getting Started
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the notebooks for analysis and modeling
 
-*Happy Coding and Hacking!*
-
-### Deadline for Submissions: 25th May, 2025, 11:59 PM IST
+The training and inference notebooks contain separate sections for different challenges, clearly marked with comments.
