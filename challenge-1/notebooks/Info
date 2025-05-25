@@ -1,0 +1,39 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "nG2h-3cWah1W"
+      },
+      "outputs": [],
+      "source": [
+        "\"\"\"\n",
+        "\n",
+        "Author: Suhani-Bajjard\n",
+        "Team Name: Revenant\n",
+        "Team Members: Suhani-Bajjard, Shivani-Singh, Aditya-Rai, Radhika, Aman\n",
+        "Leaderboard Rank for 1st Challenge: <Your Rank>\n",
+Leaderboard Rank for 2nd Challenge: <Your Rank>\n",
+        "\n",
+        "\"\"\"\n",
+        "\n",
+        "# This is the notebook used for training the model."
+      ]
+    }
+  ]
+}
